@@ -4,9 +4,9 @@ Minimalistischer Clipboard-Manager für **macOS 14 oder neuer**. Deutsche Oberfl
 
 ## Herunterladen
 
-**[H-Clipper installieren (.pkg)](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.0.1.pkg)**
+**[H-Clipper installieren (.pkg)](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.1.0.pkg)**
 
-[Alle Downloads und Anleitung](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest) · [Alternative App-ZIP](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.0.1-macOS-universal.zip)
+[Alle Downloads und Anleitung](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest) · [Alternative App-ZIP](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.1.0-macOS-universal.zip)
 
 Für den Download ist kein GitHub-Konto erforderlich.
 
@@ -21,10 +21,13 @@ Alternativ die `.zip`-Datei entpacken und die App nach „Programme“ verschieb
 
 ## Funktionen
 
+- Neue macOS-Screenshots (z. B. ⌘⇧4) automatisch zusätzlich in die Zwischenablage kopieren; die Datei bleibt erhalten.
 - Verlauf für Texte, Formatierungen und Bilder mit Suche und Pins.
 - Direktes Einfügen und anpassbare Tastenkürzel.
 - Verschiebbarer Picker und optionale Autostart-Funktion.
 - Lokale Speicherung über App- und Mac-Neustarts hinweg.
 - Keine Anmeldung, keine Cloud und keine automatische Synchronisierung.
+
+**Screenshot-Funktion:** Standardmäßig aktiv, ausschaltbar unter **Einstellungen → Allgemein**. Erlaube gegebenenfalls den macOS-Zugriff auf den Screenshot-Ordner. Bei schwebender Vorschau wird das Bild erst übernommen, wenn macOS die Datei speichert. Eine zwischenzeitlich bewusst neuere Zwischenablage wird nicht überschrieben; der Screenshot bleibt im Verlauf.
 
 Dieses Repository stellt die fertigen Downloads bereit. Persönliche Verlaufsdaten werden nicht mitgeliefert. Eine ausführliche Anleitung liegt bei jeder Version als `Installation.txt` bei. Intel wird vom Universal-Build unterstützt, wurde aber nicht auf Intel-Hardware getestet.
