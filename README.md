@@ -4,9 +4,9 @@ Minimalistischer Clipboard-Manager für **macOS 14 oder neuer**. Deutsche Oberfl
 
 ## Herunterladen
 
-**[H-Clipper installieren (.pkg)](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.0.0.pkg)**
+**[H-Clipper installieren (.pkg)](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.0.1.pkg)**
 
-[Alle Downloads und Anleitung](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest) · [Alternative App-ZIP](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.0.0-macOS-universal.zip)
+[Alle Downloads und Anleitung](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest) · [Alternative App-ZIP](https://github.com/halil1997cetin/h-clipper-downloads/releases/latest/download/H-Clipper-1.0.1-macOS-universal.zip)
 
 Für den Download ist kein GitHub-Konto erforderlich.
 
